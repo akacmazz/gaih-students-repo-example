@@ -2,7 +2,7 @@
 ![](img/logo.png)
 
 **Course Date:** 15.02.2021  
-**Name:** Ahmet 
+**Name:**  Ahmet 
 **Surname:** Kaçmaz 
 **Email:** ahmetkacmaz35@gmail.com
 
